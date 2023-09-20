@@ -1,0 +1,21 @@
+{
+    "1": {
+        "domain": 1,
+        "name": "Test the world",
+        "messages": [
+            "Hello World {}",
+            "Go To Hell, sucker {} ...",
+            "Hello World {}",
+            "Go To Hell, sucker {} ...",
+            "Hello World {}",
+            "Go To Hell, sucker {} ...",
+            "Hello World {}{}{}",
+            "Go To Hell, sucker {} ..."
+        ]
+    },
+    "2": {
+        "domain": 2,
+        "name": "Funk",
+        "messages": []
+    }
+}

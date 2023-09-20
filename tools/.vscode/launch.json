@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Carp view",
+            "type": "python",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/carpview/carpview",
+            "module": "main",
+            "args": [],
+            "justMyCode": true
+        }
+    ]
+}
