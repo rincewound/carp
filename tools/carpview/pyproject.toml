@@ -10,6 +10,8 @@ python = "^3.11"
 pyqt5 = "^5.15.9"
 pyserial = "^3.5"
 asyncqt = "^0.8.0"
+pyzmq = "^25.1.1"
+tornado = "^6.3.3"
 
 
 [build-system]
